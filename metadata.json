@@ -1,0 +1,6 @@
+{
+  "name": "Neon Rhythm",
+  "description": "A high-octane dark neon music player and rhythmic snake game experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
